@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MohamedGamiel
 - 👀 I’m interested in Deep Learning 
-- 💞️ I’m looking to collaborate on Computer Vision
+- 💞️ I’m looking to collaborate on Computer Vision Projects
 - 📫 How to reach me muhammedawad605@gmail.com
 
 <!---
